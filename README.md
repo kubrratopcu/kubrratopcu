@@ -1,23 +1,14 @@
 <div align="center">
 
-  <!-- Modern Blur Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&customColorList=12,24,25,26&text=K%C3%BCbra%20Topcu&fontSize=60&fontColor=ffffff&animation=twinkling" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Kübra%20Topcu&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-  <br/>
+<br><br>
 
-  <!-- Mavi Tonlu Terminal Tarzı Yazı Animasyonu -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=22&pause=1000&color=4364F7&center=true&vCenter=true&width=550&lines=>_+Computer+Engineering+Student;>_+Computer+Vision+Developer;>_+Software+Architecture+%26+Data+Science" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Computer+Vision+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Systems" />
 
-  <br/><br/>
+<br><br>
 
-  <!-- Sosyal Medya ve İletişim Butonları -->
-  <a href="https://www.linkedin.com/in/kübra-topcu-953748325">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:kubrratopcu@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<img src="https://github-profile-trophy.vercel.app/?username=kubrratopcu&theme=algolia&no-frame=true&row=1&column=6" />
 
 </div>
 
