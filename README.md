@@ -1,11 +1,11 @@
 <div align="center">
-  <!-- Üstteki Büyük İsim Afişi (Neon Pembe/Mor Gradyanlı, Çapraz Kesim) -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=FF007A,7000FF&height=200&section=header&text=K%C3%BCbra%20Topcu&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=scaleIn" alt="Header" />
+  <!-- Klasik ve Dikkat Çekici Koyu Mavi Afiş -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000428,004e92&height=200&section=header&text=K%C3%BCbra%20Topcu&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn" alt="Header" />
 
   <br/>
 
-  <!-- Alt Başlık Animasyonu (Neon Pembe tonlarında) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF007A&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Computer+Vision+Developer;Software+Architecture+%26+Data+Science" alt="Typing Animation" />
+  <!-- Klasik Mühendis / Terminal Tarzı Animasyon -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=>_+Computer+Engineering+Student;>_+Computer+Vision+Developer;>_+Software+Architecture+%26+Data+Science" alt="Typing Animation" />
 
   <br/><br/>
 
@@ -49,7 +49,7 @@
 
 <div align="center">
     <p><strong>Diller</strong></p>
-    <img src="https://img.shields.io/badge/C_(Orta)-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
