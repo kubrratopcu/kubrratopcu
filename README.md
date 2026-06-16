@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Mavi Tonlu Dalgalı Animasyonlu Afiş -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0052D4,4364F7,6FB1FC&height=200&section=header&text=K%C3%BCbra%20Topcu&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0052D4,4364F7,6FB1FC&height=200&section=header&text=K%C3%BCbra%20Topcu&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=blinking" alt="Header" 
 
   <br/>
 
