@@ -1,12 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4169E1,8A2BE2&height=200&section=header&text=K%C3%BCbra%20Topcu&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  <!-- Üstteki Büyük İsim Afişi (Neon Pembe/Mor Gradyanlı, Çapraz Kesim) -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=FF007A,7000FF&height=200&section=header&text=K%C3%BCbra%20Topcu&fontSize=65&fontAlignY=40&fontColor=ffffff&animation=scaleIn" alt="Header" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Computer+Vision+Developer;Software+Architecture+%26+Data+Science" alt="Typing Animation" />
+  <!-- Alt Başlık Animasyonu (Neon Pembe tonlarında) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF007A&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Computer+Vision+Developer;Software+Architecture+%26+Data+Science" alt="Typing Animation" />
 
   <br/><br/>
 
+  <!-- Sosyal Medya ve İletişim Butonları -->
   <a href="https://www.linkedin.com/in/kübra-topcu-953748325">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
