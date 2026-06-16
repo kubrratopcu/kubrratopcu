@@ -1,6 +1,8 @@
 <div align="center">
-  <!-- Mavi Tonlu Dalgalı Animasyonlu Afiş -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0052D4,4364F7,6FB1FC&height=200&section=header&text=K%C3%BCbra%20Topcu&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=twinkling" alt="Header" />
+
+  <!-- Modern Blur Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&customColorList=12,24,25,26&text=K%C3%BCbra%20Topcu&fontSize=60&fontColor=ffffff&animation=twinkling" alt="Header" />
+
   <br/>
 
   <!-- Mavi Tonlu Terminal Tarzı Yazı Animasyonu -->
@@ -12,12 +14,12 @@
   <a href="https://www.linkedin.com/in/kübra-topcu-953748325">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="mailto:kubrratopcu@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
 
-<br/>
+</div>
 
 ### 👩‍💻 Hakkında
 
