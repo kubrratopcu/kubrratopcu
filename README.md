@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Klasik ve Dikkat Çekici Koyu Mavi Afiş -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000428,004e92&height=200&section=header&text=K%C3%BCbra%20Topcu&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  <!-- Klasik ve Dikkat Çekici Koyu Mavi - Turkuaz Afiş -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1A2980,26D0CE&height=200&section=header&text=K%C3%BCbra%20Topcu&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn" alt="Header" />
 
   <br/>
 
@@ -49,7 +49,7 @@
 
 <div align="center">
     <p><strong>Diller</strong></p>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/C_(Orta)-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
