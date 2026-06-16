@@ -1,13 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3776AB&center=true&vCenter=true&lines=Merhaba,+Ben+K%C3%BCbra;Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;G%C3%B6r%C3%BCnt%C3%BC+%C4%B0%C5%9Fleme+Geli%C5%9Ftiricisi;Yaz%C4%B1l%C4%B1m+Mimarisi+%26+Veri+Bilimi" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4169E1,8A2BE2&height=200&section=header&text=K%C3%BCbra%20Topcu&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn" alt="Header" />
+
+  <br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Computer+Vision+Developer;Software+Architecture+%26+Data+Science" alt="Typing Animation" />
 
   <br/><br/>
 
   <a href="https://www.linkedin.com/in/kübra-topcu-953748325">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kubrratopcu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
