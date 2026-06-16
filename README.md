@@ -1,12 +1,15 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0052D4,6FB1FC&height=200&section=header&text=K%C3%BCbra%20Topcu&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  <!-- Mavi Tonlu Dalgalı Animasyonlu Afiş -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0052D4,4364F7,6FB1FC&height=200&section=header&text=K%C3%BCbra%20Topcu&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn" alt="Header" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=>_+Computer+Engineering+Student;>_+Computer+Vision+Developer;>_+Software+Architecture+%26+Data+Science" alt="Typing Animation" />
+  <!-- Mavi Tonlu Terminal Tarzı Yazı Animasyonu -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=22&pause=1000&color=4364F7&center=true&vCenter=true&width=550&lines=>_+Computer+Engineering+Student;>_+Computer+Vision+Developer;>_+Software+Architecture+%26+Data+Science" alt="Typing Animation" />
 
   <br/><br/>
 
+  <!-- Sosyal Medya ve İletişim Butonları -->
   <a href="https://www.linkedin.com/in/kübra-topcu-953748325">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
