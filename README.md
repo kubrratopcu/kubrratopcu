@@ -1,14 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Kübra%20Topcu&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=gradient&customColorList=12,20,24,25&text=Kübra%20Topcu&fontSize=65&fontColor=ffffff"/>
 
-<br><br>
+<h3>
+💻 Computer Engineering Student • 👁️ Computer Vision • 🤖 Machine Learning
+</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Computer+Vision+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Systems" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kubrratopcu&theme=algolia&no-frame=true&row=1&column=6" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=58A6FF&center=true&width=650&lines=Turning+Ideas+Into+Code;Building+Smart+Systems;Always+Learning+New+Technologies" />
 
 </div>
 
