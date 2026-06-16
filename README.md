@@ -1,8 +1,25 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3776AB&center=true&vCenter=true&lines=Merhaba,+Ben+K%C3%BCbra;Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;G%C3%B6r%C3%BCnt%C3%BC+%C4%B0%C5%9Fleme+Geli%C5%9Ftiricisi;Yaz%C4%B1l%C4%B1m+Mimarisi+%26+Veri+Bilimi" alt="Typing Animation" />
+
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/kübra-topcu-953748325">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kubrratopcu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br/>
+
 ### 👩‍💻 Hakkında
 
-* 👁️ Otonom sistemler için **Görüntü İşleme** (Computer Vision) ve hedef takip algoritmaları üzerine çalışmalar yürütmektedir.
-* 💻 Nesne Yönelimli Programlama (OOP), veri yapıları (Priority Queue, Hash Table), graf algoritmaları (Dijkstra) ve web tabanlı sistemler tasarlamaktadır.
-* 🎓 Bilgisayar Mühendisliği Lisans öğrencisi.
+* 🎓 **Bilgisayar Mühendisliği** Lisans öğrencisi.
+* 💻 **Yazılım Geliştirme & Algoritmalar:** C, C++, Java ve C# kullanarak Nesne Yönelimli Programlama (OOP), karmaşık veri yapıları ve graf algoritmaları (Dijkstra vb.) odaklı masaüstü/yönetim sistemleri tasarlıyorum.
+* 🧠 **Veri Bilimi & Makine Öğrenmesi:** Python ile veri analizi, doğal dil işleme (NLP) ve makine öğrenmesi tabanlı tespit modelleri (Spam tespiti vb.) geliştiriyorum.
+* 👁️ **Otonom Sistemler:** Teknofest takımı bünyesinde otonom araçlar için Görüntü İşleme (Computer Vision) ve hedef takip algoritmaları üzerinde çalışıyorum.
+* 🌐 **Çok Yönlü Odak:** Çoklu dil desteğiyle arka uç (backend) mantığından web tabanlı arayüz tasarımlarına kadar uçtan uca projeler üretiyorum.
 
 <br/>
 
@@ -37,10 +54,10 @@
 <div align="center">
     <p><strong>Teknolojiler & Alanlar</strong></p>
     <img src="https://img.shields.io/badge/Computer_Vision-FF0000?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+    <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
     <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
     <img src="https://img.shields.io/badge/Web_Geli%C5%9Ftirme-4285F4?style=for-the-badge&logo=css3&logoColor=white" alt="Web Development" />
     <img src="https://img.shields.io/badge/Data_Structures-8A2BE2?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="Algorithms" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 </div>
 
 <br/>
