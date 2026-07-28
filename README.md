@@ -41,8 +41,7 @@
   * Doğal Dil İşleme (NLP) ve makine öğrenmesi algoritmaları ile metin verileri üzerinden örüntü çıkartan sınıflandırma modeli (Jupyter Notebook, Python).
 * ⛅ **Hava Durumu Uygulaması**
   * Kullanıcı arayüzü ve stil bileşenleri (CSS) kullanılarak tasarlanmış web tabanlı hava durumu takip sistemi.
-* 🐾 **Barınak Yönetim Sistemi**
-  * Hayvan barınakları için veri analizi ve bilgi yönetimi projesi (Jupyter Notebook, Python).
+
 
 <br/>
 
