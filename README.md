@@ -1,21 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,25&text=K%C3%BCbra%20Topcu&fontSize=58&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120"/>
 
-# Computer Engineering Student
+# 👩🏻‍💻 Kübra Topcu
 
-### Artificial Intelligence • Computer Vision • Machine Learning • Explainable AI
+### Computer Engineering Student
 
-<p>
+> Artificial Intelligence • Computer Vision • Machine Learning
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+Applications;Exploring+Explainable+AI;Developing+Computer+Vision+Projects"/>
+
+<br>
+
 <a href="https://www.linkedin.com/in/kübra-topcu-953748325">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kubrratopcu@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</p>
 
 </div>
 
