@@ -1,27 +1,14 @@
 <div align="center">
 
-# Kübra Topcu
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=180"/>
 
-### Computer Engineering Student
+<h1 align="center">
+Kübra Topcu
+</h1>
 
-Artificial Intelligence · Computer Vision · Machine Learning · Explainable AI
-
-<br>
-
-> *Building intelligent systems through software engineering and artificial intelligence.*
-
-<br>
-
-<a href="https://www.linkedin.com/in/kübra-topcu-953748325">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:kubrratopcu@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=8B5CF6&center=true&width=600&lines=Artificial+Intelligence;Computer+Vision;Machine+Learning"/>
 
 </div>
-
 ---
 
 ## About
