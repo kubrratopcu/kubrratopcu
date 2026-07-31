@@ -31,16 +31,14 @@
 
 <br/>
 
-### 🚀 Deneyim & Projeler
+## 🚀 Öne Çıkan Projeler
 
-* 🌟 **Görüntü İşleme Geliştiricisi @ Tulpar Teknofest Ekibi**
-  * Otonom sistemler için hedef tespiti, görsel veri işleme ve karar algoritmalarının geliştirilmesi.
-* 🛫 **Havalimanı Yönetim Sistemi (SkyFlow)**
-  * **C++** ve **Qt** kullanılarak geliştirilen akıllı operasyon sistemi. **Dijkstra** algoritması ile optimize edilmiş rota hesaplamaları, Priority Queue ile uçuş planlaması ve Hash Table ile yolcu takibi.
-* 📩 **SMS Spam Tespiti Modeli**
-  * Doğal Dil İşleme (NLP) ve makine öğrenmesi algoritmaları ile metin verileri üzerinden örüntü çıkartan sınıflandırma modeli (Jupyter Notebook, Python).
-* ⛅ **Hava Durumu Uygulaması**
-  * Kullanıcı arayüzü ve stil bileşenleri (CSS) kullanılarak tasarlanmış web tabanlı hava durumu takip sistemi.
+- ✈️ **SkyFlow** – C++ ve Qt ile geliştirilen havalimanı yönetim sistemi.
+- 🤖 **Akıllı Hastane Asistanı** – NLP ve makine öğrenmesi destekli yönlendirme sistemi.
+- ✋ **HandMemeAI** – OpenCV ve MediaPipe ile gerçek zamanlı el hareketi tanıma uygulaması.
+- 📩 **SMS Spam Tespiti** – Makine öğrenmesi tabanlı metin sınıflandırma modeli.
+- 🎬 **Film Tavsiye Sistemi** – İçerik tabanlı öneri algoritması ve TMDB API entegrasyonu.
+- 🌦️ **Hava Durumu Uygulaması** – Gerçek zamanlı hava durumu bilgisi sunan web uygulaması.
 
 
 <br/>
