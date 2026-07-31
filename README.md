@@ -1,4 +1,38 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:020617,40:0F172A,75:1D4ED8,100:60A5FA&text=%20&fontSize=0"/> # Kübra Topcu ### Computer Engineering Student <p> Artificial Intelligence • Computer Vision • Deep Learning • Explainable AI </p> <p> <a href="mailto:kubrratopcu@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/kübra-topcu-953748325"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/> </a> </p> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Computer+Vision+Developer;Machine+Learning+Projects;Always+Learning"/> </div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=320&color=gradient&customColorList=12,24,25,26&text=%20&fontSize=0"/>
+
+<h1 align="center">
+Kübra Topcu
+</h1>
+
+<h3 align="center">
+Computer Engineering Student
+</h3>
+
+<p align="center">
+Artificial Intelligence • Computer Vision • Deep Learning • Explainable AI
+</p>
+
+<br>
+
+<a href="mailto:kubrratopcu@gmail.com">
+<img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kübra-topcu-953748325">
+<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm a Computer Engineering student passionate about Artificial Intelligence and Computer Vision.
+
+Currently focusing on Machine Learning, Deep Learning and Explainable AI while developing practical software projects.
 
 ---
 
