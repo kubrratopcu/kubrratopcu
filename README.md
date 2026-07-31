@@ -1,76 +1,105 @@
 <div align="center">
 
-  <!-- Modern Blur Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&customColorList=12,24,25,26&text=K%C3%BCbra%20Topcu&fontSize=60&fontColor=ffffff&animation=twinkling" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,25&text=K%C3%BCbra%20Topcu&fontSize=58&fontColor=ffffff&animation=fadeIn" />
 
-  <br/>
+# Computer Engineering Student
 
-  <!-- Mavi Tonlu Terminal Tarzı Yazı Animasyonu -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=22&pause=1000&color=4364F7&center=true&vCenter=true&width=550&lines=>_+Computer+Engineering+Student;>_+Computer+Vision+Developer;>_+Software+Architecture+%26+Data+Science" alt="Typing Animation" />
+### Artificial Intelligence • Computer Vision • Machine Learning • Explainable AI
 
-  <br/><br/>
+<p>
+<a href="https://www.linkedin.com/in/kübra-topcu-953748325">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
-  <!-- Sosyal Medya ve İletişim Butonları -->
-  <a href="https://www.linkedin.com/in/kübra-topcu-953748325">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="mailto:kubrratopcu@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="mailto:kubrratopcu@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+</p>
 
 </div>
 
-### 👩‍💻 Hakkında
+---
 
-* 🎓 **Bilgisayar Mühendisliği** Lisans öğrencisi.
-* 💻 **Yazılım Geliştirme & Algoritmalar:** C, C++, Java ve C# kullanarak Nesne Yönelimli Programlama (OOP), karmaşık veri yapıları ve graf algoritmaları (Dijkstra vb.) odaklı masaüstü/yönetim sistemleri tasarlıyorum.
-* 🧠 **Veri Bilimi & Makine Öğrenmesi:** Python ile veri analizi, doğal dil işleme (NLP) ve makine öğrenmesi tabanlı tespit modelleri (Spam tespiti vb.) geliştiriyorum.
-* 👁️ **Otonom Sistemler:** Teknofest takımı bünyesinde otonom araçlar için Görüntü İşleme (Computer Vision) ve hedef takip algoritmaları üzerinde çalışıyorum.
-* 🌐 **Çok Yönlü Odak:** Çoklu dil desteğiyle arka uç (backend) mantığından web tabanlı arayüz tasarımlarına kadar uçtan uca projeler üretiyorum.
+# 👋 About Me
 
-<br/>
+I'm a Computer Engineering student passionate about building intelligent software systems.
 
-## 🚀 Öne Çıkan Projeler
+My interests include **Artificial Intelligence**, **Computer Vision**, **Machine Learning**, **Deep Learning**, and **Explainable AI (XAI)**. I enjoy developing real-world applications that combine algorithms, software engineering, and data-driven solutions.
 
-- ✈️ **SkyFlow** – C++ ve Qt ile geliştirilen havalimanı yönetim sistemi.
-- 🤖 **Akıllı Hastane Asistanı** – NLP ve makine öğrenmesi destekli yönlendirme sistemi.
-- ✋ **HandMemeAI** – OpenCV ve MediaPipe ile gerçek zamanlı el hareketi tanıma uygulaması.
-- 📩 **SMS Spam Tespiti** – Makine öğrenmesi tabanlı metin sınıflandırma modeli.
-- 🎬 **Film Tavsiye Sistemi** – İçerik tabanlı öneri algoritması ve TMDB API entegrasyonu.
-- 🌦️ **Hava Durumu Uygulaması** – Gerçek zamanlı hava durumu bilgisi sunan web uygulaması.
+Currently, I'm focusing on AI-powered vision systems while continuously improving my knowledge through hands-on projects.
 
+---
 
-<br/>
+# 🚀 Featured Projects
 
-### 🛠️ Teknoloji Altyapısı
+### ✈️ SkyFlow
+Smart airport management system developed with **C++** and **Qt**, featuring flight scheduling, shortest-path routing, and passenger management.
+
+### 🤖 Smart Hospital Assistant
+AI-powered hospital navigation system using **NLP** and **Machine Learning** to guide patients based on their symptoms.
+
+### ✋ HandMemeAI
+Real-time hand gesture recognition system built with **Python**, **OpenCV**, **MediaPipe**, and **Machine Learning**.
+
+### 📩 SMS Spam Detection
+Machine Learning based text classification system for detecting spam messages.
+
+### 🎬 Movie Recommendation System
+Content-based recommendation engine integrated with the **TMDB API** and **Streamlit**.
+
+### 🌦 Weather Application
+Responsive web application providing real-time weather information.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,cs,js,c" />
+</p>
+
+### Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=opencv,qt,git,github,vscode" />
+</p>
+
+### Interests
+
+`Artificial Intelligence`
+`Computer Vision`
+`Machine Learning`
+`Deep Learning`
+`Explainable AI`
+`Algorithms`
+
+---
+
+# 📈 GitHub Statistics
 
 <div align="center">
-    <p><strong>💻 Diller</strong></p>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kubrratopcu&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubrratopcu&layout=compact&theme=github_dark&hide_border=true"/>
+
 </div>
 
-<br/>
+---
 
 <div align="center">
-    <p><strong>Teknolojiler & Alanlar</strong></p>
-    <img src="https://img.shields.io/badge/Computer_Vision-FF0000?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
-    <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
-    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
-    <img src="https://img.shields.io/badge/Web_Geli%C5%9Ftirme-4285F4?style=for-the-badge&logo=css3&logoColor=white" alt="Web Development" />
-    <img src="https://img.shields.io/badge/Data_Structures-8A2BE2?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="Algorithms" />
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=kubrratopcu&theme=github-dark&hide_border=true)
+
 </div>
 
-<br/>
-
-### 📊 GitHub Etkinliği
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kubrratopcu&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubrratopcu&theme=react&hide_border=true&background=0D1117" width="48%" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kubrratopcu&theme=github_dark)
+
 </div>
