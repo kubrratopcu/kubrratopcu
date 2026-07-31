@@ -1,50 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:020617,40:0F172A,75:1D4ED8,100:60A5FA&text=%20&fontSize=0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&color=0:020617,25:0F172A,55:1E40AF,100:60A5FA"/>
 
 # Kübra Topcu
 
 ### Computer Engineering Student
 
 <p>
-Artificial Intelligence • Computer Vision • Deep Learning • Explainable AI
+Artificial Intelligence • Computer Vision • Machine Learning • Explainable AI
 </p>
 
 <p>
+Building intelligent systems through algorithms, data and software engineering.
+</p>
+
+<br>
+
 <a href="mailto:kubrratopcu@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kübra-topcu-953748325">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Computer+Vision+Developer;Machine+Learning+Projects;Always+Learning"/>
 
 </div>
 
 ---
 
-# About Me
+# About
 
-I'm a Computer Engineering student passionate about Artificial Intelligence and intelligent software development.
+I'm a Computer Engineering student focused on designing intelligent software systems.
 
-Currently, I focus on **Computer Vision**, **Machine Learning**, **Deep Learning**, and **Explainable AI (XAI)** while building practical projects that combine software engineering with AI technologies.
+My interests include Computer Vision, Deep Learning, Machine Learning, Explainable AI (XAI), and Autonomous Systems.
+
+I enjoy transforming ideas into practical applications by combining algorithms, software engineering, and artificial intelligence.
 
 ---
 
 # Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| ✈️ **SkyFlow** | Airport Management System built with C++ & Qt |
-| 🤖 **Smart Hospital Assistant** | NLP-powered patient guidance system |
-| ✋ **HandMemeAI** | Real-time hand gesture recognition with OpenCV & MediaPipe |
-| 📩 **SMS Spam Detection** | Machine Learning based text classification |
-| 🎬 **Movie Recommendation** | Content-based recommendation using TMDB API |
-| 🌦 **Weather App** | Responsive web application with live weather data |
+<div align="center">
+
+| Project | Technologies | Focus |
+|:---|:---|:---|
+| ✈️ SkyFlow | C++, Qt | Algorithms & Desktop Development |
+| 🤖 Smart Hospital Assistant | Python, NLP | AI Assistant |
+| ✋ HandMemeAI | OpenCV, MediaPipe | Computer Vision |
+| 📩 SMS Spam Detection | Scikit-Learn | Machine Learning |
+| 🎬 Movie Recommendation | Streamlit, TMDB | Recommendation Systems |
+| 🌦 Weather Application | HTML, CSS, JavaScript | Web Development |
+
+</div>
 
 ---
 
@@ -52,9 +59,13 @@ Currently, I focus on **Computer Vision**, **Machine Learning**, **Deep Learning
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,cs,js"/><br><br>
+### Languages
 
-<img src="https://skillicons.dev/icons?i=opencv,qt,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,cs,js"/>
+
+### AI & Development
+
+<img src="https://skillicons.dev/icons?i=opencv,qt,git,github,vscode"/>
 
 </div>
 
@@ -62,12 +73,22 @@ Currently, I focus on **Computer Vision**, **Machine Learning**, **Deep Learning
 
 # Current Focus
 
-- 🤖 Artificial Intelligence
-- 👁 Computer Vision
-- 🧠 Deep Learning
-- 📊 Machine Learning
-- 🔍 Explainable AI
-- 📐 Algorithms
+```text
+Artificial Intelligence
+█████████████████████ 100%
+
+Computer Vision
+███████████████████░░ 90%
+
+Machine Learning
+██████████████████░░░ 85%
+
+Deep Learning
+████████████████░░░░░ 75%
+
+Explainable AI
+█████████████░░░░░░░░ 65%
+```
 
 ---
 
@@ -82,5 +103,17 @@ Currently, I focus on **Computer Vision**, **Machine Learning**, **Deep Learning
 <br><br>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kubrratopcu&theme=tokyo-night&hide_border=true"/>
+
+<br><br>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=kubrratopcu&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting 👋
 
 </div>
